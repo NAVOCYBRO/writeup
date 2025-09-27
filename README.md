@@ -16,5 +16,5 @@ Here are some of the CTFs I've participated in:
 | CTF Name       | Year(s) | Write-up Count |
 |----------------|---------|----------------|
 | squ1rrelCTF    | 2025    | 1              |
-| HaackornCTF    | 2025    |                |
+| HaackornCTF    | 2025    | 5              |
 ## 
