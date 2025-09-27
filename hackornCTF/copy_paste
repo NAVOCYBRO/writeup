@@ -1,0 +1,12 @@
+unzip copy_paste.zip
+
+unzip copy_paste.zip                        
+Archive:  copy_paste.zip
+server log для deepseek 2.txt:  mismatching "local" filename (server log ���+�� deepseek 2.txt),
+         continuing with "central" filename version
+  inflating: server log для deepseek 2.txt  
+
+cat 'server log для deepseek 2.txt' |grep user
+cat 'server log для deepseek 2.txt' |grep pass
+
+i found then flag SPL{student1_s3cr3t!}
